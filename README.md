@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0D1117&random=false&width=500&lines=HI+I'M+ISMAIL+AABRAR)](https://github.com/iaabrar16)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&random=false&width=500&lines=HI+I'M+ISMAIL+AABRAR)](https://github.com/iaabrar16)
 
 I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 
