@@ -5,12 +5,13 @@ I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for lear
 🖥️ Want to know more about me ? [**Check out my Portfolio**](https://iaabrar16.github.io/iaabrar.com).
 
 <!-- - 🔭 I’m currently working on **Backend** -->
+<img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width = "450" alt= "Coding">
 
 - 🌱 I’m currently focusing **Software Testing & Quality Assurance (STQA)** 
 - 💬 Ask me about **Javascript, React or Anything**
 - 📫 How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
 - 😄 Pronouns: he/him
-<img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width = "450" alt= "Coding">
+
 
 [![](https://visitcount.itsvg.in/api?id=iaabrar16&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/iaabrar16)
 
