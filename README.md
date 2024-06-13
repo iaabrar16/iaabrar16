@@ -30,7 +30,7 @@ I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for lear
 
 ##
 
-## 👨‍💻 Skills & Experience
+## 💻 Skills & Experience
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-D94423?style=for-the-badge&labelColor=202020&logo=html5&logoColor=D94423)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&labelColor=202020&logo=css3&logoColor=2465F1)](#)
