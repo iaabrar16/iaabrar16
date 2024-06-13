@@ -38,9 +38,9 @@ I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for lear
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7532F9?style=for-the-badge&labelColor=202020&logo=bootstrap&logoColor=7532F9)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&labelColor=202020&logo=tailwindcss&logoColor=38BDF8)](#)
 [![React.js Badge](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&labelColor=202020&logo=react&logoColor=61DBFB)](#)
-<!-- [![C++ Badge](https://img.shields.io/badge/C%2B%2B-659BD3?style=for-the-badge&labelColor=202020&logo=c%2B%2B&logoColor=659BD3)](#) -->
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-659BD3?style=for-the-badge&labelColor=202020&logo=c%2B%2B&logoColor=659BD3)](#)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=202020&logo=npm&logoColor=CB3837)](#)
-<!-- [![Vite Badge](https://img.shields.io/badge/Vite-A735F2?style=for-the-badge&labelColor=202020&logo=vite&logoColor=F2BE22)](#) -->
+[![Vite Badge](https://img.shields.io/badge/Vite-A735F2?style=for-the-badge&labelColor=202020&logo=vite&logoColor=F2BE22)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-22A6F1?style=for-the-badge&labelColor=202020&logo=visualstudio&logoColor=22A6F1)](#)
 
 ##
