@@ -9,7 +9,7 @@ I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for lear
 - 🌱 I’m currently creating projects using **Software Testing & Quality Assurance (STQA)** 
 - 💬 Ask me about **Javascript, React or Anything**
 - 📫 How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
-- 😄 Pronouns: he/him
+<!-- - 😄 Pronouns: he/him -->
 
 [![](https://visitcount.itsvg.in/api?id=iaabrar16&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/iaabrar16)
 
