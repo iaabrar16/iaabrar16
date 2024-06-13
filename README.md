@@ -11,7 +11,7 @@ I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for lear
 - 📫 How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
 - 😄 Pronouns: he/him
 
-[![](https://visitcount.itsvg.in/api?id=abdulkader789&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/iaabrar16)
+[![](https://visitcount.itsvg.in/api?id=iaabrar16&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/iaabrar16)
 
 ##
 
