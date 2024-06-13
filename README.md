@@ -13,7 +13,7 @@ I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for lear
 - 💬 Ask me about **Javascript, React or Anything**
 - ✉️ How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
 - 😃 Pronouns: he/him
-- ⚡ Interested in Futsal(⚽) and Drive(🚗)
+- ⚡ Interested in Futsal ⚽ and Drive 🚗
 
 
 [![](https://visitcount.itsvg.in/api?id=iaabrar16&label=Profile%20Views&color=0&icon=1&pretty=true)](https://github.com/iaabrar16)
