@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&random=false&width=500&lines=HI+I'M+ISMAIL+AABRAR)](https://github.com/iaabrar16)
 
-I’m a **Junior Developer** from Bangladesh 🇧🇩. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
+I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 <img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width="300" alt="Coding">
 
 🖥️ Want to know more about me ? [**Check out my Portfolio**](https://iaabrar16.github.io/iaabrar.com).
