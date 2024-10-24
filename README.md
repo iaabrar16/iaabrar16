@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&random=false&width=500&lines=HI+I'M+ISMAIL+AABRAR)](https://github.com/iaabrar16)
  
-I’m a passionate **Junior Developer** from Bangladesh 🇧🇩, dedicated to learning and sharing knowledge while solving real-world problems.  
-<img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width="300" alt="Animated image of coding">
 
-<<<<<<< HEAD
-🖥️ Want to know more about me? [**Check out my Portfolio**](https://iaabrar16.github.io/iaabrar.com).
-=======
+
 I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 <img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width="300" alt="Coding">
 
@@ -20,7 +16,6 @@ I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about 
 - ✉️ How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
 - 😃 Pronouns: he/him
 - ⚡ Interested in Futsal ⚽ and Driving 🚗
->>>>>>> df7c066edc21be2a6cbafc787d1ae25d7bfdc9fa
 
 ### 👨‍💻 About Me
 - 🎯 Currently focusing on **Software Testing & Quality Assurance (STQA)**
