@@ -14,7 +14,6 @@ I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about 
 - 🎯 I’m currently focusing **Software Testing & Quality Assurance (STQA)** 
 - 💬 Ask me about **Javascript, React or Anything**
 - ✉️ How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
-- 😃 Pronouns: he/him
 - ⚡ Interested in Futsal ⚽ and Driving 🚗
 
 ### 👨‍💻 About Me
@@ -58,14 +57,14 @@ Feel free to reach out if you want to discuss programming, collaborate on projec
 ### 🛠️ Tools
 - **Design & Prototyping**: Figma, Framer
 - **CRM & Marketing**: HubSpot
-- **Testing Tools**: Postman, JMeter
+- **API Testing**: Postman
+- **Performance Testing**: JMeter
 
 ---
 
 ## 🧪 Testing
 - **Functional Testing**: Unit, Integration, White Box, Black Box, Acceptance Testing
 - **Non-Functional Testing**: Performance, Load, Usability, Compatibility Testing
-- **API Testing**: Using Postman
 - **Other Testing**: Regression Testing, Database Testing, Automation Testing
 
 ---
@@ -76,7 +75,7 @@ Feel free to reach out if you want to discuss programming, collaborate on projec
 ---
 
 ## 📅 Project Management
-- Tools: Jira, Monday.com, Trello
+- **Tools**: Jira, Monday.com, Trello
 
 ---
 
