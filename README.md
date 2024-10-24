@@ -33,7 +33,7 @@ I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about 
 
 ---
 
-### 🛠️ Tools
+## 🛠️ Tools
 - **Design & Prototyping**: Figma, Framer
 - **CRM & Marketing**: HubSpot
 - **API Testing**: Postman
