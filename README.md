@@ -73,7 +73,7 @@ Feel free to reach out if you want to discuss programming, collaborate on projec
 ---
 
 ## 📄 My CV
-You can view and download my CV [here](Ismail Aabrar_CV.pdf).
+You can view and download my CV [here](Ismail_Aabrar_CV.pdf).
 
 ---
 
