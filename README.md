@@ -8,7 +8,7 @@ I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about 
 🖥️ Want to know more about me ? [**Check out my Portfolio**](https://iaabrar16.github.io/iaabrar.com).
 
 - 🎯 I’m currently focusing **Software Testing & Quality Assurance (STQA)** 
-- 💬 Ask me about **Javascript, React or Anything**
+- 💬 Ask me about **Anything**
 - ✉️ How to reach me: [iaabrar16@gmail.com](mailto:iaabrar16@gmail.com)
 - ⚡ Interested in Futsal ⚽ and Driving 🚗
 
