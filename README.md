@@ -73,8 +73,8 @@ Feel free to reach out if you want to discuss programming, collaborate on projec
 ---
 
 ## 📄 My CV
-You can view and download my CV [here](Ismail_Aabrar_CV.pdf).
-Check out my CV on Google Drive [here](https://drive.google.com/drive/u/3/folders/1e1zLtCRnHMf2dKMUYOgv04-KHfuoj0In).
+- You can view and download my CV [here](Ismail_Aabrar_CV.pdf).
+- Check out my CV on Google Drive [here](https://drive.google.com/drive/u/3/folders/1e1zLtCRnHMf2dKMUYOgv04-KHfuoj0In).
 
 
 ---
