@@ -54,6 +54,8 @@ Feel free to reach out if you want to discuss programming, collaborate on projec
 ### Databases
 - MySQL, MongoDB
 
+---
+
 ### 🛠️ Tools
 - **Design & Prototyping**: Figma, Framer
 - **CRM & Marketing**: HubSpot
