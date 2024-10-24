@@ -66,7 +66,7 @@ I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about 
 ---
 
 ## 🏅 Achievements
-- **Runner-Up (Captain)**: Freshers Football Fiesta (a football tournament).
+- **Runner-Up (Captain)**: Freshers Football Fiesta.
 
 ---
 
