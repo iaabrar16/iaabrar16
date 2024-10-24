@@ -72,6 +72,11 @@ Feel free to reach out if you want to discuss programming, collaborate on projec
 
 ---
 
+## 📄 My CV
+You can view and download my CV [here](Ismail Aabrar_CV.pdf).
+
+---
+
 ## 🏅 Achievements
 - **Runner-Up (Captain)**: Freshers Football Fiesta (a football tournament).
 
