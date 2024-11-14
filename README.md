@@ -37,7 +37,7 @@ I’m a **Front-End Developer** from Bangladesh 🇧🇩. I am passionate about 
 - **Design & Prototyping**: Figma, Framer
 - **CRM & Marketing**: HubSpot
 - **API Testing**: Postman
-- **Performance Testing**: JMeter
+- **Performance Testing**: JMeter, K6
 
 ---
 
